@@ -5,3 +5,6 @@
 目前包含的有:
 
 * tcp
+```javascript
+net.Socket();
+```
